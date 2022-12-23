@@ -1,0 +1,44 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', Arial, sans-serif;
+    background-image: url("https://images.unsplash.com/photo-1633881613394-34db3dc0b143?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80");    
+    background-size:cover;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    font-size:xx-large;
+
+    
+}
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+.card{
+   
+    border:5px solid black;
+    border-radius: 20px ;
+    background-color: #00000087;
+    padding:0px 20px;
+
+}
+
+button {
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 2px;
+    margin-top: 2px;
+}
